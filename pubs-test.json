@@ -151,18 +151,18 @@
       { "source": "2", "target": "3"},
       { "source": "3", "target": "4"},
       { "source": "4", "target": "5"},
-      { "source": "4", "target": "6"},
+      { "source": "4", "target": "6"}
     ],
     "chronology":  [
       { "source": "1", "target": "2"},
       { "source": "2", "target": "3"},
       { "source": "3", "target": "4"},
       { "source": "4", "target": "6"},
-      { "source": "4", "target": "5"},
+      { "source": "4", "target": "5"}
     ],
     "authorChronological":  [
       { "source": "1", "target": "4"},
-      { "source": "2", "target": "6"},
+      { "source": "2", "target": "6"}
     ],
     "tagsImprov":  [
       { "source": "1", "target": "3"},
@@ -170,11 +170,11 @@
       { "source": "1", "target": "6"},
       { "source": "3", "target": "4"},
       { "source": "3", "target": "6"},
-      { "source": "4", "target": "6"},
+      { "source": "4", "target": "6"}
     ],
     "tagsComposition":  [
-      { "source": "1", "target": "3"},
-    ],
+      { "source": "1", "target": "3"}
+    ]
   }
 }
 
