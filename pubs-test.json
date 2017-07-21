@@ -2,62 +2,62 @@
   "nodes": [
     {
       "id": "1",
-    	"activeContent" : "5f624e5da9c219247d7e8100b3331a88",
-    	"contributor" : "Sam",
-    	"contributorId" : "595136e8d58381673bae6c26",
-    	"directedAt" : [
-    		"Tom"
-    	],
+      "activeContent" : "5f624e5da9c219247d7e8100b3331a88",
+      "contributor" : "Sam",
+      "contributorId" : "595136e8d58381673bae6c26",
+      "directedAt" : [
+        "Tom"
+      ],
       "drafts": [],
-    	"invitedBy" : "Rod",
-    	"inRhizome" : "#001",
+      "invitedBy" : "Rod",
+      "inRhizome" : "#001",
       "pubDate": "today",
-    	"published" : "true",
-    	"tags" : [
-    		"kittens",
-    		"Cute"
-    	],
-    	"title" : "Pictures of kittens",
-    	"type" : "image"
+      "published" : "true",
+      "tags" : [
+        "kittens",
+        "Cute"
+      ],
+      "title" : "Pictures of kittens",
+      "type" : "image"
     },
     {
       "id": "2",
-    	"activeContent" : "test content",
-    	"contributor" : "Tom",
-    	"contributorId" : "12345678",
-    	"directedAt" : [
-    		"Sam"
-    	],
+      "activeContent" : "test content",
+      "contributor" : "Tom",
+      "contributorId" : "12345678",
+      "directedAt" : [
+        "Sam"
+      ],
       "drafts": [],
-    	"invitedBy" : "Rod",
-    	"inRhizome" : "#001",
+      "invitedBy" : "Rod",
+      "inRhizome" : "#001",
       "pubDate": "today",
-    	"published" : "true",
-    	"tags" : [
-    		"test",
-    		"Cute"
-    	],
-    	"title" : "TESTING",
-    	"type" : "mixed"
+      "published" : "true",
+      "tags" : [
+        "test",
+        "Cute"
+      ],
+      "title" : "TESTING",
+      "type" : "mixed"
     },
     {
       "id": "3",
-    	"activeContent" : "pink and grey and green",
-    	"contributor" : "Rod",
-    	"contributorId" : "09876543",
-    	"directedAt" : [
-    		"Sam"
-    	],
+      "activeContent" : "pink and grey and green",
+      "contributor" : "Rod",
+      "contributorId" : "09876543",
+      "directedAt" : [
+        "Sam"
+      ],
       "drafts": [],
-    	"invitedBy" : "",
-    	"inRhizome" : "#002",
+      "invitedBy" : "",
+      "inRhizome" : "#002",
       "pubDate": "today",
-    	"published" : "true",
-    	"tags" : [
-    		"colours"
-    	],
-    	"title" : "Rod's colour scheme",
-    	"type" : "mixed"
+      "published" : "true",
+      "tags" : [
+        "colours"
+      ],
+      "title" : "Rod's colour scheme",
+      "type" : "mixed"
     }
   ],
   "links": {
