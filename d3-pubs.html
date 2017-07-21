@@ -31,7 +31,7 @@ var simulation = d3.forceSimulation()
 
 d3.json("pubs-test.json", function(error, graph) {
   if (error) throw error;
-  var myLinks = graph.links.directedAt;
+  var myLinks = graph.links.tagsImprov;
   console.log(myLinks);
 
   var link = svg.append("g")
